@@ -1,0 +1,105 @@
+nav {
+	border: 1px solid black;
+	padding-left: 20px;
+	padding-right: 50px;	
+	background-color: lightgrey;
+	position: fixed;
+	text-align: left;
+	top: 0px;
+	width: 100%;
+	z-index: 999;
+	font-size: 18px;
+}
+	.greg {
+		float:left;
+		font-weight: bold;
+		font-size: 18px;
+		margin:20px;
+	}
+
+
+
+/*.navcat {
+	
+    border: 1px solid black;
+    border-radius: 25px;
+    height: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: left;
+    margin-right: 20px;
+	}*/
+
+.headlink {
+	    margin-right: 50px;
+	    float: right;
+}
+
+.headlink li {
+	display: inline;
+	margin-right: 10px;
+	}
+
+.headlink a:link{
+	color:purple;
+
+}
+
+a:link{
+	text-decoration: none;
+}
+
+main{
+	margin-top:100px;
+    margin-left:150px;
+    float:none;
+}
+
+label{
+	display:block;
+
+}
+
+
+input[type=text] {
+    
+    width: 400px;
+    padding:5px;
+    display:inline-block;
+
+    
+}
+.magglass{
+	height: 30px;
+    border: 1px solid grey;
+    border-radius: 2px;
+    position: relative;
+    top: 11px;
+}
+
+
+.bar{
+	margin-top: 40px;
+	display: block;
+	padding-left: 0px;
+	margin-bottom: 50px;
+}
+
+.bar a{
+	display: inline;
+    border: 1px solid grey;
+    height: 20px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.blue{
+	color:blue;
+	font-weight: bold;
+}
+
+.jobs p{
+	margin-bottom:20px;
+	color:grey;
+}
